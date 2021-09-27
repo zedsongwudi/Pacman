@@ -1,0 +1,3 @@
+Base path: 'E:/unipy/Editor/Data', plugins path 'E:/unipy/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: shutdown
